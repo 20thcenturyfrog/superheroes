@@ -90,6 +90,7 @@ body {
   display: inline-block;
   position: absolute;
   padding-top: 650px;
+  z-index: -1;
 }
 
 .ratings {
